@@ -4,7 +4,7 @@ const yesBtn = document.getElementById('yesBtn');
 // Adiciona o evento de clique ao botão "Sim"
 yesBtn.addEventListener('click', () => {
     // Redireciona para o link do YouTube
-    window.location.href = 'https://www.youtube.com/watch?v=dWpGsK8Md28&ab_channel=LuanSantana'; 
+    window.location.href = 'https://www.youtube.com/watch?v=YeqgMW1_gA4&ab_channel=CristianoAra%C3%BAjo'; 
 });
 
 // Captura o botão "Não"
