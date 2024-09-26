@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 Este projeto foi feito com muito carinho e uma pitada de criatividade (e um pouco de desespero 😅). Eu queria pedir minha namorada em "casamento" de uma forma diferente e, como sou um futuro programador incrível (ou pelo menos estou tentando 😅), decidi criar **um site personalizado só pra ela!** 😍
 
-A ideia é simples: um pedido de namoro fofo, acompanhado de um botão que leva diretamente para uma surpresa no YouTube. Mas é claro que, se ela pensar em recusar, o botão de "Não" vai tentar fugir... Afinal, quem disse que eu facilitaria, né? 
+A ideia é simples: um pedido de "casamento" fofo, acompanhado de um botão que leva diretamente para uma surpresa no YouTube. Mas é claro que, se ela pensar em recusar, o botão de "Não" vai tentar fugir... Afinal, quem disse que eu facilitaria, né? 
 
 ## Por que está no GitHub?
 Eu sei, parece meio estranho estar no GitHub para um projeto pessoal, mas como sou um cara tecnológico e moderno, precisei fazer o **deploy** por aqui para poder enviar de forma prática e mostrar todo o meu empenho em fazer algo especial! 😎
