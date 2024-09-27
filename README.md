@@ -12,6 +12,7 @@ Eu sei, parece meio estranho estar no GitHub para um projeto pessoal, mas como s
 - 💻 Usei um pouco de HTML, CSS e JavaScript para demonstrar meu lado programador (e romântico, claro).
 - 🎯 O botão de "Não" é traiçoeiro! Boa sorte tentando clicar nele.
 - 🎥 Se ela aceitar, vai direto para um vídeo no YouTube (spoiler: é algo fofo, claro!).
+- 🔗 Deploy: https://karlosqwer.github.io/pedido-romantico-rayssinha/
 
 ## Aviso:
 
