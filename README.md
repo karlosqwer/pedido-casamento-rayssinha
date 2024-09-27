@@ -1,4 +1,4 @@
-# Pedido de romântico - Projeto Pessoal 💖
+# Pedido romântico - Projeto Pessoal 💖
 
 ## Sobre o Projeto
 Este projeto foi feito com muito carinho e uma pitada de criatividade (e um pouco de desespero 😅). Eu queria pedir minha namorada em "casamento" de uma forma diferente e, como sou um futuro programador incrível (ou pelo menos estou tentando 😅), decidi criar **um site personalizado só pra ela!** 😍
